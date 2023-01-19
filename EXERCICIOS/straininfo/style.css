@@ -127,20 +127,6 @@ main {
     transition: 0.8s;
 }
 
-nav > a:hover {
-    color: rgb(255, 255, 255);
-    transition: 0.8s;
-}
-
-nav > a:visited {
-    text-decoration: none;
-    transform: none;
-}
-      
-nav > a:active {
-    color: rgb(0, 0, 0);
-}
-
 nav {
     
     margin-left: 500px;
